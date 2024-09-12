@@ -1,16 +1,16 @@
-## Hi there 👋
+## Bem vindos ao meu perfil 🖤
 
-<!--
-**MariaEduardaBadia/MariaEduardaBadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Eu me chamo Maria Eduarda_
 
-Here are some ideas to get you started:
+- Estou estudando na plataforma Alura (htts://www.alura.com.br)
+- Estou me desenvolvendo nas linguagens de tecnologia
+- Utilizo esse perfil para me organizar e compartilhar meus projetos desenvolvidos
+- ### Você pode entrar em contato comigo pelo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ m.e.o.badia@gmail.com
+
+ - ### Você pode me seguir no instagram ⬇️
+  
+ @ei.badia
+
+![]( https://tenor.com/pt-BR/view/рок-gif-27336084)
